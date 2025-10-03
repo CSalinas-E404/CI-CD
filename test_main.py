@@ -25,5 +25,5 @@ def test_divide():
         divide(5, 0)
 
 def test_square():
-    assert square(2) == 2
+    assert square(2) == 4
     assert square(3) == 9
